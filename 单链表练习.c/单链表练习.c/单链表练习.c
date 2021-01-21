@@ -1,0 +1,103 @@
+//#include <stdio.h>
+//
+////1.定义结构体
+//struct Node
+//{
+//	int data;
+//	struct Node* next;
+//};
+//
+////2.创建链表(头)
+//struct Node* createList()
+//{
+//	struct Node* headNode = (struct Node*) malloc(sizeof(struct Node));    //开辟空间
+//	//headNode->data = 23;
+//	headNode->next = NULL;    //暂时指向空
+//
+//	return headNode;
+//}                                                                 /*已全锁定*/
+//
+////3.创建节点
+//struct Node* createNode(int data)
+//{
+//	struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+//
+//	newNode->data = data;    //数据域赋初值
+//	newNode->next = NULL;    //暂时指向空
+//
+//	return newNode;
+//}
+//
+////4.打印链表
+//void printfList(struct Node* headNode)
+//{
+//	struct Node* pMove = headNode->next;    
+//
+//	while (pMove)    //从头寻找要打印的数据
+//	{
+//		printf("%d\t", pMove->data); 
+//		pMove = pMove->next;    //向后跳一位
+//	}
+//	printf("\n\n");
+//}
+//
+////5.插入节点(头插法)
+//void InsertNodeByHead(struct Node* headNode, int data)
+//{
+//	struct Node* newNode = createNode(data);    //要插入，先创建节点
+//
+//	newNode->next = headNode->next;    //使newNode的指针域指向原来headNode的下一个
+//	headNode->next = newNode;    //使头指向要插入的节点
+//}
+//
+////6.删除节点
+//void DeleteNodeByAppoin(struct Node* headNode, int posData)
+//{
+//	struct Node* posNode = headNode->next;    //定义一个指针指向首元素
+//	struct Node* posNodeFront = headNode;    //定义一个指针指向posNode前一个指针
+//
+//	if (posNode == NULL)    //还未遍历时，判断链表是否为空
+//	{
+//		printf("此链表为空\n");
+//	}
+//	else
+//	{
+//		while (posNode->data != posData)    //遍历链表
+//		{
+//			posNodeFront = posNode;
+//			posNode = posNode->next;
+//
+//			if (posNode == NULL)    //找不到要删除的数据，即该链表无次数据
+//			{
+//				printf("此链表没有该数据\n");
+//				return 0;    //返回主函数
+//			}
+//		}
+//		posNodeFront->next = posNode->next;    //使posNodeFront指向删除元素的下一个元素
+//		free(posNode);    //归还删除元素的空间
+//	}
+//}
+//
+//
+//int main()
+//{
+//	struct Node* list = createList();    //在主函数创建链表
+//
+//	InsertNodeByHead(list, 1);    //由于使用头插法，先插入的数据反而在后
+//	InsertNodeByHead(list, 2);    //
+//	InsertNodeByHead(list, 3);    //插入3个节点
+//
+//	printfList(list);    //输出插入后的结果
+//
+//	DeleteNodeByAppoin(list, 2);    //删除1个节点
+//
+//	printfList(list);    //打印删除后的结果
+//
+//	return 0;
+//}
+
+
+
+
+
+
