@@ -1,0 +1,19 @@
+#pragma once
+
+#include <stdlib.h>
+
+#define STACK_TYPE int
+
+void create_stack(size_t size);
+
+void destroy_stack();
+
+void push(STACK_TYPE value);
+
+void pop();
+
+STACK_TYPE top();
+
+int is_empty();
+
+int is_full();
