@@ -1,0 +1,8 @@
+﻿  树实现.c
+D:\c程序\vs\树实现.c\树实现.c\树实现.c(23,30): warning C4013: “malloc”未定义；假设外部返回 int
+D:\c程序\vs\树实现.c\树实现.c\树实现.c(27,14): error C2275: “PTree”: 将此类型用作表达式非法
+D:\c程序\vs\树实现.c\树实现.c\树实现.c(18): message : 参见“PTree”的声明
+D:\c程序\vs\树实现.c\树实现.c\树实现.c(27,2): warning C4033: “InitTree”必须返回值
+D:\c程序\vs\树实现.c\树实现.c\树实现.c(67,32): error C2440: “=”: 无法从“PTNode”转换为“PTNode *”
+D:\c程序\vs\树实现.c\树实现.c\树实现.c(59,1): error C2440: “初始化”: 无法从“PTNode”转换为“PTNode *”
+D:\c程序\vs\树实现.c\树实现.c\树实现.c(76,23): error C2440: “return”: 无法从“PTNode”转换为“PTNode *”
