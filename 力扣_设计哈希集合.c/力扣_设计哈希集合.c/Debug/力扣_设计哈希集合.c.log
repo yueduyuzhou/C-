@@ -1,0 +1,13 @@
+﻿  力扣_设计哈希集合.c
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(28,23): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(46,3): error C2371: “MyHashSet”: 重定义；不同的基类型
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(9): message : 参见“MyHashSet”的声明
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(50,12): error C2084: 函数“MyHashSet *myHashSetCreate()”已有主体
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(13): message : 参见“myHashSetCreate”的前一个定义
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(59,6): error C2084: 函数“void myHashSetAdd(MyHashSet *,int)”已有主体
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(22): message : 参见“myHashSetAdd”的前一个定义
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(63,6): error C2084: 函数“void myHashSetRemove(MyHashSet *,int)”已有主体
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(26): message : 参见“myHashSetRemove”的前一个定义
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(68,6): error C2040: “myHashSetContains”:“bool (MyHashSet *,int)”与“bool *(MyHashSet *,int)”的间接寻址级别不同
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(73,6): error C2084: 函数“void myHashSetFree(MyHashSet *)”已有主体
+D:\c程序\vs\力扣\力扣_设计哈希集合.c\力扣_设计哈希集合.c\力扣_设计哈希集合.c(37): message : 参见“myHashSetFree”的前一个定义
