@@ -1,0 +1,4 @@
+﻿  力扣_救生艇.c
+D:\c程序\vs\力扣\力扣_救生艇.c\力扣_救生艇.c\力扣_救生艇.c(124,10): warning C4013: “qsort”未定义；假设外部返回 int
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\c程序\vs\力扣\力扣_救生艇.c\Debug\力扣_救生艇.c.exe : fatal error LNK1120: 1 个无法解析的外部命令
