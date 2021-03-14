@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "力扣_前K个高频单词.c", "力扣_前K个高频单词.c\力扣_前K个高频单词.c.vcxproj", "{0AA21E0B-76CA-476A-9399-D747EFCF38A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA21E0B-76CA-476A-9399-D747EFCF38A2}.Debug|x64.ActiveCfg = Debug|x64
+		{0AA21E0B-76CA-476A-9399-D747EFCF38A2}.Debug|x64.Build.0 = Debug|x64
+		{0AA21E0B-76CA-476A-9399-D747EFCF38A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AA21E0B-76CA-476A-9399-D747EFCF38A2}.Debug|x86.Build.0 = Debug|Win32
+		{0AA21E0B-76CA-476A-9399-D747EFCF38A2}.Release|x64.ActiveCfg = Release|x64
+		{0AA21E0B-76CA-476A-9399-D747EFCF38A2}.Release|x64.Build.0 = Release|x64
+		{0AA21E0B-76CA-476A-9399-D747EFCF38A2}.Release|x86.ActiveCfg = Release|Win32
+		{0AA21E0B-76CA-476A-9399-D747EFCF38A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49213AD-65F7-44B2-BA86-3626C61E36CB}
+	EndGlobalSection
+EndGlobal
