@@ -1,0 +1,7 @@
+﻿  力扣_77_组合.c
+D:\c程序\vs\力扣\力扣_77_组合.c\力扣_77_组合.c\力扣_77_组合.c(37,15): warning C4013: “memset”未定义；假设外部返回 int
+D:\c程序\vs\力扣\力扣_77_组合.c\力扣_77_组合.c\力扣_77_组合.c(46,15): warning C4013: “memcpy”未定义；假设外部返回 int
+D:\c程序\vs\力扣\力扣_77_组合.c\力扣_77_组合.c\力扣_77_组合.c(122,6): error C2084: 函数“void backTrackCombine(int **,int,int,int *,int *,int,int)”已有主体
+D:\c程序\vs\力扣\力扣_77_组合.c\力扣_77_组合.c\力扣_77_组合.c(31): message : 参见“backTrackCombine”的前一个定义
+D:\c程序\vs\力扣\力扣_77_组合.c\力扣_77_组合.c\力扣_77_组合.c(149,7): error C2084: 函数“int **combine(int,int,int *,int **)”已有主体
+D:\c程序\vs\力扣\力扣_77_组合.c\力扣_77_组合.c\力扣_77_组合.c(60): message : 参见“combine”的前一个定义
