@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "插入排序练手.c", "插入排序练手.c\插入排序练手.c.vcxproj", "{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}.Debug|x64.ActiveCfg = Debug|x64
+		{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}.Debug|x64.Build.0 = Debug|x64
+		{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}.Debug|x86.ActiveCfg = Debug|Win32
+		{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}.Debug|x86.Build.0 = Debug|Win32
+		{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}.Release|x64.ActiveCfg = Release|x64
+		{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}.Release|x64.Build.0 = Release|x64
+		{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}.Release|x86.ActiveCfg = Release|Win32
+		{3084C5FE-01CB-4F79-9D14-534BA1EA0A99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5D36EF-079B-4B53-AAEC-0D4F31BF7566}
+	EndGlobalSection
+EndGlobal
