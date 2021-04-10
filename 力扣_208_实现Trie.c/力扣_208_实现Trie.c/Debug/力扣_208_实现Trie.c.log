@@ -1,0 +1,8 @@
+﻿  力扣_208_实现Trie.c
+D:\c程序\vs\力扣\力扣_208_实现Trie.c\力扣_208_实现Trie.c\力扣_208_实现Trie.c(28,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\c程序\vs\力扣\力扣_208_实现Trie.c\力扣_208_实现Trie.c\力扣_208_实现Trie.c(44,6): error C2061: 语法错误: 标识符“trieSearch”
+D:\c程序\vs\力扣\力扣_208_实现Trie.c\力扣_208_实现Trie.c\力扣_208_实现Trie.c(44,6): error C2059: 语法错误:“;”
+D:\c程序\vs\力扣\力扣_208_实现Trie.c\力扣_208_实现Trie.c\力扣_208_实现Trie.c(44,21): error C2059: 语法错误:“<parameter-list>”
+D:\c程序\vs\力扣\力扣_208_实现Trie.c\力扣_208_实现Trie.c\力扣_208_实现Trie.c(56,6): error C2061: 语法错误: 标识符“trieStartsWith”
+D:\c程序\vs\力扣\力扣_208_实现Trie.c\力扣_208_实现Trie.c\力扣_208_实现Trie.c(56,6): error C2059: 语法错误:“;”
+D:\c程序\vs\力扣\力扣_208_实现Trie.c\力扣_208_实现Trie.c\力扣_208_实现Trie.c(56,25): error C2059: 语法错误:“<parameter-list>”
