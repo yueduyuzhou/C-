@@ -1,0 +1,6 @@
+﻿  力扣_211_最大正方形.c
+D:\c程序\vs\力扣\力扣_211_最大正方形.c\力扣_211_最大正方形.c\力扣_211_最大正方形.c(6,1): warning C4005: “min”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1290): message : 参见“min”的前一个定义
+D:\c程序\vs\力扣\力扣_211_最大正方形.c\力扣_211_最大正方形.c\力扣_211_最大正方形.c(7,1): warning C4005: “max”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : 参见“max”的前一个定义
+  力扣_211_最大正方形.c.vcxproj -> D:\c程序\vs\力扣\力扣_211_最大正方形.c\Debug\力扣_211_最大正方形.c.exe
