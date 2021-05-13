@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "力扣_506_相对名词.c", "力扣_506_相对名词.c\力扣_506_相对名词.c.vcxproj", "{F11E907F-5FA5-4D40-B096-E28C606D2300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11E907F-5FA5-4D40-B096-E28C606D2300}.Debug|x64.ActiveCfg = Debug|x64
+		{F11E907F-5FA5-4D40-B096-E28C606D2300}.Debug|x64.Build.0 = Debug|x64
+		{F11E907F-5FA5-4D40-B096-E28C606D2300}.Debug|x86.ActiveCfg = Debug|Win32
+		{F11E907F-5FA5-4D40-B096-E28C606D2300}.Debug|x86.Build.0 = Debug|Win32
+		{F11E907F-5FA5-4D40-B096-E28C606D2300}.Release|x64.ActiveCfg = Release|x64
+		{F11E907F-5FA5-4D40-B096-E28C606D2300}.Release|x64.Build.0 = Release|x64
+		{F11E907F-5FA5-4D40-B096-E28C606D2300}.Release|x86.ActiveCfg = Release|Win32
+		{F11E907F-5FA5-4D40-B096-E28C606D2300}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6143FD-30F4-4E71-965F-75DCD4FDD2A6}
+	EndGlobalSection
+EndGlobal
