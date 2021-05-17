@@ -1,0 +1,14 @@
+﻿  力扣_535_TinyURL的加密与解密.c
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(26,1): error C2059: 语法错误:“/”
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(28,7): error C2084: 函数“char *encode(char *)”已有主体
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(2): message : 参见“encode”的前一个定义
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(30,27): error C2065: “NULL”: 未声明的标识符
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(30,27): warning C4047: “!=”:“char *”与“int”的间接级别不同
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(31,24): error C2065: “key”: 未声明的标识符
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(37,7): error C2084: 函数“char *decode(char *)”已有主体
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(14): message : 参见“decode”的前一个定义
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(39,28): error C2065: “NULL”: 未声明的标识符
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(39,28): warning C4047: “!=”:“char *”与“int”的间接级别不同
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(40,25): error C2065: “key”: 未声明的标识符
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(44,2): warning C4138: 在注释外找到“*/”
+D:\c程序\vs\力扣\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c\力扣_535_TinyURL的加密与解密.c(44,3): error C2059: 语法错误:“/”
