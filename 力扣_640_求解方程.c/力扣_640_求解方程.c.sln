@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "力扣_640_求解方程.c", "力扣_640_求解方程.c\力扣_640_求解方程.c.vcxproj", "{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}.Debug|x64.ActiveCfg = Debug|x64
+		{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}.Debug|x64.Build.0 = Debug|x64
+		{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}.Debug|x86.Build.0 = Debug|Win32
+		{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}.Release|x64.ActiveCfg = Release|x64
+		{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}.Release|x64.Build.0 = Release|x64
+		{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}.Release|x86.ActiveCfg = Release|Win32
+		{1E7ED9F1-1118-4BD8-9924-8975A4B3F791}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C9FC10-F339-4D88-912D-D6F5BC1E26AA}
+	EndGlobalSection
+EndGlobal
