@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "力扣_61_旋转链表.c", "力扣_61_旋转链表.c\力扣_61_旋转链表.c.vcxproj", "{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}.Debug|x64.ActiveCfg = Debug|x64
+		{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}.Debug|x64.Build.0 = Debug|x64
+		{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}.Debug|x86.ActiveCfg = Debug|Win32
+		{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}.Debug|x86.Build.0 = Debug|Win32
+		{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}.Release|x64.ActiveCfg = Release|x64
+		{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}.Release|x64.Build.0 = Release|x64
+		{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}.Release|x86.ActiveCfg = Release|Win32
+		{457B01D3-30BD-467C-8CDC-D717FB3EBCE7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04942AA1-9BA5-46BA-BDDC-0C835E567BDB}
+	EndGlobalSection
+EndGlobal
